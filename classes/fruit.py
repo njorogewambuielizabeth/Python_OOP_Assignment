@@ -16,5 +16,6 @@ class Fruit:
         print(f"Pineapples have a  {self.flavor} flavor")  
         
 fruit1=Fruit("Grapes","purple","sweet")
+fruit1.wash()
         
               
